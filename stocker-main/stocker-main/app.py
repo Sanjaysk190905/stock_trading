@@ -29,8 +29,8 @@ TRANSACTION_TABLE = "stocker_transactions"
 PORTFOLIO_TABLE = "stocker_portfolio"
 
 # SNS Topics
-USER_ACCOUNT_TOPIC_ARN = "arn:aws:sns:us-east-1:604665149129:StockerUserAccountTopic"
-TRANSACTION_TOPIC_ARN = "arn:aws:sns:us-east-1:604665149129:StockerTransactionTopic"
+USER_ACCOUNT_TOPIC_ARN = "arn:aws:sns:us-east-1:438465167929:USER_ACCOUNT_TOPIC_ARN"
+TRANSACTION_TOPIC_ARN = "arn:aws:sns:us-east-1:438465167929:TRANSACTION_TOPIC_ARN"
 
 
 # ================= HELPER CLASSES =================
